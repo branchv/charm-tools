@@ -26,7 +26,7 @@ dependencies = [
     "requests>=2.0.0,<3.0.0",
     "requirements-parser<0.6",
     "ruamel.yaml<0.16.0;python_version < '3.7'",
-    "ruamel.yaml<0.18;python_version >= '3.7'",
+    "ruamel.yaml<1;python_version >= '3.7'",
     "secretstorage<3.4",
     "vergit>=1.0.0,<2.0.0",
     "virtualenv>=1.11.4,<21",

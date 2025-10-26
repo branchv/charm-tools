@@ -15,6 +15,7 @@ jobs:
           - '3.10'  # jammy
           - '3.12'  # noble
           - '3.13'  # plucky
+          - '3.14'  # resolute
     steps:
     - name: Check out code
       uses: actions/checkout@v2
